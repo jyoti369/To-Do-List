@@ -1,0 +1,18 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:yellowgreen;
+}
+
+p{
+    background-color: coral;
+}
+.contain{
+    text-align: center;
+    height: 30px;
+    background-color:orange;
+    padding: 3px;
+}
